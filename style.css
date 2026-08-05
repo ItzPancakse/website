@@ -12,3 +12,22 @@ body {
     );
 }
 
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #7a4a1f;
+  color: #fdf0d5;
+  text-decoration: none;
+  border-radius: 6px;
+  font-family: inherit;
+}
+
+.button:hover {
+  background-color: #5c3814;
+}
+
+#pancake {
+  width: 250px;
+  height: auto;
+  margin: 20px 0;
+}
