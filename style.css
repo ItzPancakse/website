@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+
+    font-family: "Comic Sans MS", cursive;
+    color: #5c3a21;
+
+    background: linear-gradient(
+        #fff8e8 0%,
+        #ffe9b8 50%,
+        #ffd98a 100%
+    );
+}
+
